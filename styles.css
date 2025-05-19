@@ -56,4 +56,11 @@ body {
   font-style: italic;
 }
 
+.star-icon {
+  font-size: 30px;
+  color: yellow;
+  vertical-align: middle;
+  cursor: pointer;
+}
+
 

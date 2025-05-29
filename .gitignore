@@ -1,0 +1,22 @@
+# Mac OS system files
+.DS_Store
+
+# Node modules (если используешь Node.js)
+node_modules/
+
+# Логи
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Сборочные каталоги
+dist/
+build/
+
+# IDE файлы
+.vscode/
+.idea/
+
+# Окружение
+.env
+.env.local

@@ -1,6 +1,5 @@
-import { generateRandomInt } from '../utils.js';
+import { generateRandomInt } from '../utils/math.js';
 import { handleFavorite } from './favorites.js';
-import { quoteFavoriteBtn } from '../../index.js'; // Импорт кнопки избранного
 
 function handleQuote(quotes, setCurrentQuote) {
   console.log(quotes);
